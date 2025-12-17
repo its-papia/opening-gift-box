@@ -5,4 +5,4 @@ A simple interactive gift box project built with HTML, CSS, and JavaScript. Clic
 
 👉 https://its-papia.github.io/opening-gift-box/
 
-
+![Project Screenshot](preview.png)
